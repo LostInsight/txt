@@ -124,6 +124,9 @@ MC(music-choice) https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChann
 看世界杯-CCTV-5-高清流畅,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225828/index.m3u8
 看世界杯-CCTV-5(高清流畅但插播广告),http://cctv5.txty.5213.liveplay.myqcloud.com/live/cctv5_txty.m3u8
 
+看世界杯-CCTV-5超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+看世界杯-CCTV-5蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+
 看世界杯-上海五星体育HD(不稳定),http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
 看世界杯-上海五星体育官方直播源HD1(不稳定),http://hls.mv.wa5.com/live/gssports1_900/playlist.m3u8
 看世界杯-上海五星体育官方直播源HD2(不稳定),http://hls.mv.wa5.com/live/gssports1/playlist.m3u8
@@ -223,6 +226,8 @@ MC(music-choice) https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChann
 
 
 新增源地址,*
+
+戏曲梨园频道,http://117.158.206.60:9080/live/lypd.m3u8
 
 AppleTV-CCTV-1,http://223.110.241.204:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
 AppleTV-CCTV-1超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
