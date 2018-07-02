@@ -8,7 +8,6 @@
 
 
 
-
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 几点说明：
 （1）某些源地址有效期很短。请自己主动搜索新源替换。相信你能找到自己喜欢的、流畅稳定的源。
@@ -207,7 +206,7 @@ MC(music-choice) https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChann
 
 /////////////////////////////////
 //////////更新日期////////////////
-/////////2018年07月02日//////////
+/////////2018年07月03日//////////
 ////////Yutianjian/////////////
 
 
@@ -224,6 +223,118 @@ MC(music-choice) https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChann
 
 
 新增源地址,*
+
+AppleTV-CCTV-1,http://223.110.241.204:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
+AppleTV-CCTV-1超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+AppleTV-CCTV-1蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+AppleTV-CCTV-2,http://223.110.241.204:6610/gitv/live1/G_CCTV-2/G_CCTV-2/
+AppleTV-CCTV-2高清,http://223.110.241.204:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
+AppleTV-CCTV-2蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+AppleTV-CCTV-3,http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD/
+AppleTV-CCTV-3超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+AppleTV-CCTV-3蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+AppleTV-CCTV-4超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+AppleTV-CCTV-4蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/
+AppleTV-CCTV-5,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD/
+AppleTV-CCTV-5+超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+AppleTV-CCTV-5+蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+AppleTV-CCTV-5超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+AppleTV-CCTV-5蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+AppleTV-CCTV-6超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+AppleTV-CCTV-6蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+AppleTV-CCTV-7超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+AppleTV-CCTV-8,http://223.110.241.204:6610/gitv/live1/G_CCTV-8/G_CCTV-8/
+AppleTV-CCTV-8超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+AppleTV-CCTV-8蓝光,http://223.110.241.204:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
+AppleTV-CCTV-9超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+AppleTV-CCTV-10超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+AppleTV-CCTV-11超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+AppleTV-CCTV-12超清,http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/
+AppleTV-CCTV-13超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+AppleTV-CCTV-14超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+AppleTV-CCTV-15超清,http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+AppleTV-CCTV-NEWS,http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+AppleTV-CETV-1,http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1/
+AppleTV-CETV-2,http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/
+AppleTV-CETV-3,http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
+AppleTV-CETV-4,http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
+
+AppleTV-安多卫视,http://223.110.241.204:6610/gitv/live1/G_ANDUO/G_ANDUO/
+AppleTV-安徽卫视,http://223.110.241.204:6610/gitv/live1/AHWS/AHWS/
+AppleTV-北京卫视,http://223.110.241.204:6610/gitv/live1/G_BEIJING/G_BEIJING/
+AppleTV-北京卫视超清-8M,http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+AppleTV-兵团卫视,http://223.110.241.204:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
+AppleTV-东方卫视,http://223.110.241.204:6610/gitv/live1/G_DONGFANG/G_DONGFANG/
+AppleTV-东方卫视超清-8M,http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+AppleTV-东南卫视,http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/
+AppleTV-发现之旅,http://223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
+AppleTV-甘肃卫视,http://223.110.241.204:6610/gitv/live1/G_GANSU/G_GANSU/
+AppleTV-高尔夫,http://223.110.241.204:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
+AppleTV-广东卫视,http://223.110.241.204:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/
+AppleTV-广西卫视,http://223.110.241.204:6610/gitv/live1/GXWS/GXWS/
+AppleTV-贵州卫视,http://223.110.241.204:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
+AppleTV-国学频道,http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
+AppleTV-好享购,http://223.110.241.204:6610/gitv/live1/G_HAOXIANG/G_HAOXIANG/
+AppleTV-河北卫视,http://223.110.241.204:6610/gitv/live1/G_HEBEI/G_HEBEI/
+AppleTV-河南卫视,http://223.110.241.204:6610/gitv/live1/HENAN/HENAN/
+AppleTV-黑龙江卫视,http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/
+AppleTV-湖北卫视,http://223.110.241.204:6610/gitv/live1/G_HUBEI/G_HUBEI/
+AppleTV-湖南卫视,http://223.110.241.204:6610/gitv/live1/G_HUNAN/G_HUNAN/
+AppleTV-湖南卫视超清-8M,http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
+AppleTV-吉林卫视,http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN/
+AppleTV-家庭理财,http://223.110.241.204:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
+AppleTV-嘉佳卡通,http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+AppleTV-江苏城市,http://223.110.241.204:6610/gitv/live1/G_JSCS/G_JSCS/
+AppleTV-江苏公共,http://223.110.241.204:6610/gitv/live1/G_JSGG/G_JSGG/
+AppleTV-江苏教育,http://223.110.241.204:6610/gitv/live1/G_JSJY/G_JSJY/
+AppleTV-江苏卫视,http://223.110.241.204:6610/gitv/live1/JSWS-HD/JSWS-HD/
+AppleTV-江苏卫视超清,http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+AppleTV-江苏休闲体育,http://223.110.241.204:6610/gitv/live1/G_JSTY/G_JSTY/
+AppleTV-江苏影视,http://223.110.241.204:6610/gitv/live1/G_JSYS/G_JSYS/
+AppleTV-江苏综艺,http://223.110.241.204:6610/gitv/live1/G_JSZY/G_JSZY/
+AppleTV-江西卫视,http://223.110.241.204:6610/gitv/live1/JXWS/JXWS/
+AppleTV-金鹰卡通,http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
+AppleTV-京视剧场,http://223.110.241.204:6610/gitv/live1/G_JINGJU/G_JINGJU/
+AppleTV-卡酷少儿,http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
+AppleTV-康巴卫视,http://223.110.241.204:6610/gitv/live1/G_KANGBA/G_KANGBA/
+AppleTV-考试在线,http://223.110.241.204:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/
+AppleTV-老故事,http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+AppleTV-辽宁卫视,http://223.110.241.204:6610/gitv/live1/LNWS/LNWS/
+AppleTV-旅游卫视,http://223.110.241.204:6610/gitv/live1/LYWS/LYWS/
+AppleTV-南方卫视（广东),http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG/
+AppleTV-南京科教,http://223.110.241.204:6610/gitv/live1/G_NJJK/G_NJJK/
+AppleTV-南京十八,http://223.110.241.204:6610/gitv/live1/G_NJSB/G_NJSB/
+AppleTV-南京新闻综合,http://223.110.241.204:6610/gitv/live1/G_NJXW/G_NJXW/
+AppleTV-内蒙古卫视,http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
+AppleTV-宁夏卫视,http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
+AppleTV-农林卫视,http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
+AppleTV-女性时尚,http://223.110.241.204:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
+AppleTV-青海卫视,http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
+AppleTV-厦门卫视,http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
+AppleTV-山东教育电视台,http://223.110.241.204:6610/gitv/live1/G_SDETV/G_SDETV/
+AppleTV-山东卫视,http://223.110.241.204:6610/gitv/live1/SDWS/SDWS/
+AppleTV-山东卫视超清,http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
+AppleTV-山西卫视,http://223.110.241.204:6610/gitv/live1/SXWS/SXWS/
+AppleTV-陕西卫视,http://223.110.241.204:6610/gitv/live1/G_SHANXI/G_SHANXI/
+AppleTV-深圳卫视,http://223.110.241.204:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
+AppleTV-四川卫视,http://223.110.241.204:6610/gitv/live1/SCWS/SCWS/
+AppleTV-天津卫视,http://223.110.241.204:6610/gitv/live1/TJWS/TJWS/
+AppleTV-西藏卫视,http://223.110.241.204:6610/gitv/live1/G_XIZANG/G_XIZANG/
+AppleTV-现代女性,http://223.110.241.204:6610/gitv/live1/G_XIANDAINX/G_XIANDAINX/
+AppleTV-新疆卫视,http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+AppleTV-新娱乐,http://223.110.241.204:6610/gitv/live1/G_XINYULE/G_XINYULE/
+AppleTV-炫动卡通,http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
+AppleTV-延边卫视,http://223.110.241.204:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
+AppleTV-弈坛春秋,http://223.110.241.204:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
+AppleTV-优漫卡通,http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+AppleTV-云南卫视,http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
+AppleTV-浙江卫视,http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/
+AppleTV-浙江卫视超清,http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
+AppleTV-证券资讯,http://223.110.241.204:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
+AppleTV-职业指南,http://223.110.241.204:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
+AppleTV-置业频道,http://223.110.241.204:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
+AppleTV-中国交通频道,http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
+AppleTV-重庆卫视,http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
 
 高清翡翠台直播源,http://qqpull.inke.cn/live/1530340554303998.m3u8
 
@@ -288,6 +399,7 @@ tvnews寰宇新闻HD,http://pulllive-al.wasu.cn/live/1528461345367108.m3u8
 天元围棋(失效暂时保留),http://116.66.222.46:8082/TV3003.m3u8
 //2018年6月16日找到的 太不容易了
 弈坛春秋,http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8
+弈坛春秋2,http://223.110.241.204:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
 
 江苏南京移动直播源,*
 
